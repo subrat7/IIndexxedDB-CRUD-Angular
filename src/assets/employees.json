@@ -1,0 +1,7 @@
+[
+    {"characters": "Iron Man","fullName": "Tony Stark", "email": "tony@outlook.com", "address": "MCU ,New York", "phone": "9999999999"},
+    {"characters": "Captain America","fullName": "Steve Rogers", "email": "roger@outlook.com", "address": "MCU, USA", "phone": "0000000000"},
+    {"characters": "Thor","fullName": "Thor Odinson", "email": "thor@outlook.com", "address": "MCU , New york", "phone": "888888888"},
+    {"characters": "Spider Man","fullName": "Peter Parker", "email": "peter@outlook.com", "address": "NA", "phone": "909"},
+    {"characters": "Black Panther","fullName": "T'Challa", "email": "challa@outlook.com", "address": "NA", "phone": "909"}
+]
